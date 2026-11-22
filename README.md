@@ -1,4 +1,6 @@
-# Proyek Akhir Praktikum Data Science — Covertype
+## KELOMPOK 26
+## KLASIFIKASI JENIS TUTUPAN HUTAN BERDASARKAN KARAKTERISTIK TOPOGRAFI DAN LINGKUNGAN
+## MUHAMMAD NAUFAL ALFARISI / 123240182
 
 ## Isi folder
 1. `01_Business_Understanding_dan_Data_Gathering.ipynb`
@@ -41,6 +43,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 - Macro-F1 menjadi metrik utama karena target memiliki ketidakseimbangan kelas.
 - Model yang digunakan adalah baseline Dummy, Decision Tree, dan Random Forest. Pastikan algoritma tersebut sesuai dengan materi praktikum yang diajarkan dosen/asisten.
 - Hasil random split memiliki keterbatasan untuk data yang berpotensi memiliki autokorelasi spasial.
-
-## Catatan akademik
-Notebook ini adalah kerangka kerja yang perlu dijalankan, diperiksa, dan dipahami. Lengkapi interpretasi hasil visualisasi dan konklusi menggunakan output aktual ketika notebook dijalankan. Jangan menyalin angka hasil eksperimen yang belum dihasilkan oleh eksekusi notebook.
